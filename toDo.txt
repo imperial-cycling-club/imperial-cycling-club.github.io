@@ -1,0 +1,57 @@
+Heritage Kit
+
+Am Rücken in der Mitte unten steht LDN in türkis/blau und bold und kursiv und icc rückt an die seite. 
+
+Entferne folgendes im Head damit Suchmaschinen es finden
+<meta name="robots" content="noindex,nofollow" />
+
+
+mein logo sieht aus wie bei syn
+
+links ICC über drei Zeilen. Rechts daneben jeweils in einer Zeile gestapelt: Imperial, Cycling, Club
+
+Schriftart Montserrat dadurch sind die C's schön rund und erinnern an zwei fahrradreifen.
+
+Das I ist zusätzlich Kursiv. ICC hat Schriftart 150 px Extra bold und Zeichenabstand -10% und Höhe Schriftzeichen 120% und Weite 110%
+
+Rechts Daneben die drei Wörter haben: 38px Medium, Zeichenabstand -20%, Zeilenabstand 47px, Höhe-Zeichen 120% sonst nix verändert. Alles in schwarz. Habs in photopea erstellt
+
+
+Road-Cycling zusammen mit Triathlon?
+
+Befreundete Clubs: Ausdauersport/Outdoor: Rowing, Running, Swimming, Triathlon, Surfing, Outdoor, Wintersports,...
+
+Indoor: zwift, Strava… Clubs einrichten; available: Wattbikes in gyms: install Wattbike App for precise Performance tracking…
+Kann der Club noch zwei Wattbikes zur Nutzung an der Union organisieren?
+
+Alumni Strategie: … Erfahrung: Trainingsplöne, Ausrüstung, Fahrradkauf Infos
+
+FAQ:
+Fahrrad richtig lagern, sichern und mieten:
+-Das richtige Lagern von Fahrrädern ist in London ein Problem. Die meisten müssen Ihr Rad mit ins Studentenzimmer nehmen, da in der dichten Bebauung von London oft keine andere Lagerungsmöglichkeit besteht. Dies ist eine der größten Hürden für den Radsport in London und viele entscheiden sich daher für die Nutzung von Santander oder Boris-Bikes etc. Man sollte also checken: Gibt es Möglichkeiten das Rad im Hof/Keller abzustellen? Ist es erlaubt sein Rad mit ins Zimmer zu nehmen? Beim Sport Rad ist die Lagerung im Zimmer oft unproblematisch und das Rad kann zu einem schicken Accesoire werden. Beim Rad für den Alltag kann das aber zum Problem werden: Allein wegen Nässe und Dreck die sich bei Regen am Rad sammeln. Die Nutzung von teureren Sporträdern ist für den Alltag sowieso ungeeignet. Zum einen weil Carbon-Gabeln etc. durch das Geboller im Alltag Schaden nehmen können. Aber vorallem weil das Diebstahlrisiko in London für teurere Fahrräder enorm ist. Das Sicherheitsteam von Imperial bietet Beratung zu Schlössern. Auf dem Campus können die locked Bike-Parks genutzt werden. Abschließend lässt sich sagen: Für den Alltag ein billiges Rad oder Boris/Santander-Bikes und für den Radsport ein separates Bike, das im Zimmer oder sonst wo sicher Verstaut werden kann. Wer die Möglichkeiten nicht hat kann gerne schauen welche Möglichkeiten wir zum Indoor Cycling anbieten. Oder man wendet sich an Bike-Shops um Mietoptionen zu checken. Kann der Club Mieträder organisieren?
+Risiken und Versicherung:
+-Den Risiken vom Radsport muss man sich bewusst sein. Man hat keine schützende Karosserie um sich, bewegt sich mit hohen Geschwindigkeiten und ist dem Verkehr ausgesetzt. Daher gehört Radsport zu den risikoreicheren Sportarten und es kommt regelmäßig zu Unfällen, nicht selten Schwer. Daher ist es wichtig, dass man seinen Versicherungsschutz checkt. Welche Versicherung über NHS, welche Versicherung über Imperial, zusätzliche Versicherung zu empfehlen? Was im Ausland? Welche zusätzlichen Sicherheitsmaßnahmen: Tragen eines Helms voraussgesetzt für Club Aktivitäten. Fürs MTB sind weitere Protektoren zu empfehlen. Siehe MTB Faq. Bei Dunkelheit gute Beleuchtung (siehe Ausrüstung Empfehlung). und Reflektoren und fluo Kleidung. Ein geladenes Handy dabei haben um im Notfall Hilfe rufen zu können. Außerdem wichtig: Rad in technisch gutem Zustand. Insbesondere Bremsen aber auch Carbon-Gabel sollte regelmäßig gecheckt werden. Wer das nicht selbst kann sollte zum Fahrradladen gehen für den Service. weitere Sicherheitsmaßnahmen?
+Was mache ich bei einer Panne:
+-Für kleinere Reparaturen sollte ein Multitool dabei sein. Außerdem sollten 
+Bietet der Club einen Service zum Abholen wenn man gestrandet ist?
+-Kann der Club einen Service anbieten dass man abgeholt wird bei Defekt, Unfall oder wenn man sonst wie gestrandet ist? Während der Clubausfahrten? Außerhalb der Clubausfahrten? Kooperation mit Union/Radladen/Ethos/Uni... Kosten dafür? 
+Welche Radkleidung brauche ich fürs Roadbiking und wo kann ich sie kaufen:
+-Fahrradhelm und Brille sind für die Sicherheit die notwendigsten Teile.
+-Bei Fahrradhelmen hat sich in den letzten Jahren Design-mäßig viel entwickelt und Radhelme sind inzwischen zum stylischen Accessoire geworden. Die Anzahl an Herstellern ist inzwischen groß. Der Helm sollte nicht zu alt sein und eine entsprechende Zertifizierung haben. Zu den bewährten Marken zählen: Abus, Kask, Laser, Rudy Project, Giro, Uvex, Sweet Protection, Poc, Specialized,... Wichtig beim Helm ist, dass größe und Form zum Kopf passt, daher lohnt sich ein Kauf im Laden. Vom Gebraucht kauf wird grundsätzlcih abgeraten. Zumindest sollte der Helm aber wenig benutzt worden sein. Wenige Jahre alt sein (das Produktionsdatum steht im Helm) und keine Beschädigungen haben.
+Moderne Sportsonnenbrillen (z.b. 100%, Oakley,...) sind für einen coolen Look angesagte Accesoires. Man sollte bei Sonnenbrillen nur auf einen geeigneten UV Schutz achten. Fakes aus China versprechen oft UV Schutz - jedoch noch höheres Risiko da durch die Abdunklung die Pupille sich weitet. Für den Anfang tut es auch eine einfache Sport- oder Laborbrille. z.b. Uvex…
+-Neben Helm und Radbrille ist das wichtigste Kleidungsstück die Bib-Short mit Polster für längere Ausfahrten. Außerdem empfiehlt sich ein Radtrikot mit Rückentaschen. Um für kühles Wetter gewappnet zu sein oder von einem Regenschauer nicht überrascht werden will sollte außerdem eine leichte Rad-Regenjacke haben. Radjacken mit Membran sind wasserdicht und atmungsaktiv. Die Membran ist aber aus PTFE gefertigt. Ein umstrittenes Material, das in Frankreich zurecht verboten werden soll. Wir empfehlen daher lieber auf etwas funktionalität zu verzichten (das gleiche gilt für alle Produkte die wasserabweisend sind) und eine einfache Regenjacke mit PU/… Beschichtung zu wählen. Für kühleres Wetter empfiehlt sich ein Baselayer Funktionsshirt - dieses muss nicht radsezifisch sein und kann z.b. bei Decathlon Kipsta gekauft werden. Für kühleres Wetter können darüberhinaus noch eine lange, warme Radhose oder Beinlinge und ein warmes langarm Trikot/Jacke gekauft werden. Handschuhe sind bei kühlem Wetter unverzichtbar. Im Sommer sind kurze Radhandschuhe ein sinnvoller Schutz, damit Hände im Falle eines Sturzes vor Aufschürfungen geschützt sind.
+-Wer über die Anfangsphase hinaus ist wird schnell die Notwendigkeit für Radschuhe erkennen. Da diese über Cleats mit den Pedalen verbunden werden, ermöglichen sie eine effizientere Kraftübertragung beim Kurbeln. Es gibt eine Vielzahl von Pedalsystemen. Shimano SPD-MTB-System ist für den Anfang eine gute Wahl. In Kombination mit MTB Schuhe mit etwas Profil können so auch mal Strecken zu Fuß überwunden werden.
+-Decathlonn bietet für den Anfang ein gutes Preis-Leistungsverhältnis für die Komplette Rad-Kleidung.
+-gebraucht bei Vinted oder auch bei Amazon lassen sich oft gute Angebote auch von Marken finden. Im Radsport spielt die Funktionalität der Kleidung eine große Rolle daher sollte man darauf achten bei etablierten Radsportmarken zu kaufen: Castelli, Sportful, Nalini, Kalas, Craft, Etxeondo, Biehler, Assos, Gore Wear, Alé, Gobik, Le Col, dhb, Van Rysel, Triban, u.v.m
+-Der Club bietet auch Kits an, siehe....
+Bikewaschen und Pfelgen:
+-Ein leidiges Thema. Wenn man keinen Hof mit Schlauch zur Verfügung hat dann wird das Bike Putzen leider etwas schwierig. Wenn man sich auf Fahrten bei schönem Wetter beschränkt, dann reduziert das den Putzaufwand erheblich. Verlinkung YT: How to wash bike. Gibt es am College eine Möglichkeit sein Bike zu waschen - an der Union? 
+-welche Pfelgemittel zu empfehlen: Für die Reinigung reicht ein normaler Allzweckreiniger aus dem Supermarkt. Besondere Vorsicht bei der Scheibenbremse, dass diese nicht verölt - tricks? Das putzen der Kette ist ein kontroverses Thema. Nur mit Entfetter bekommt man sie wirklich sauber aber es gibt auch stimmen, die sagen, dass man damit die innere Schmierung zerstört. Als Kettenöl empfehlen wir ein relativ einfaches Produkt z.b. … Wir raten von Produkten für extreme Anforderungen wie Finish-Line grün ab Enthält Teflon. Nicht nur Belastung für Umwelt und Gesundheit sondern hinterlässt auch sauerei weil es sich kaum abwaschen lässt. Ansonsten sind keine Pflegeprodukte notwendig.
+Wartung und Reparaturen:
+-Mit etwas handwerklichem Geschick lassen sich die Reparaturen am Rad meist selbst durchführen. YouTube bietet viele Anleitungen. Unsere Möglichkeiten bei Reparaturen zu helfen sind leider begrenzt, da wir alle viel zu tun haben. Aber für Tipps und Beratung versuchen wir natürlich trotzdem immer zu helfen. Die Schwierigkeit in London ist es eine geeignete Werkstatt und Material zu finden: Bike User Group? Welchen Support bietet der Club? Gibt es empfehlenswerte Bike-Shops oder sogar Kooperationen? Kann der Cycling Club Werkzeugkoffer anschaffen oder sogar eine Werkstattfläche stellen mit Werkzeugkoffer und Montageständer? Kooperation mit bike-user Group?
+Welches Rad für Anfänger:
+-Für den Anfang ist ein Alu-Rad gegenüber einem Carbonrad zu bevorzugen. Carbonrahmen haben klar die besten Eigenschaften. Durch die Sprödheit von Carbon erfordert das Material aber etwas Radsporterfahrung. Moderne Alu-Rahmen sind auch hervorragend. Stahlrahmen sind für den Radsport weitestgehend ungeeignet. Man sollte auch darauf achten, dass das Rad nicht zu alt ist. Wegen Materialalterung, aber vorallem weil durch den technsichen Fortschritt die Räder in den letzten Jahrzehnten sich ständig weiterentwickelt haben.
+Die Rahmengröße sollte passend gewählt werden. 
+Als Referenz wär z.b. das aktuelle Canyon Endurace AL mit Shimano 105 als ideale Einstiegsrad. Wer ein kleineres Budget hat kann auf folgendes Verzichten: Für den Anfang tun Felgenbremsen auch ihren Job und Schnellspanner statt Steckachsen sind ausreichend. Es bietet sich auch der Gebrauchtkauf an. Für Anfänger gilt als Faustformel: vertrauenswürdiger Händler oder privater Verkäufer, Rad von einer bewährten Marke, ALu-Rahmen, Antrieb Shimano 105 oder Ultegra, technisch in gutem Zustand. Idealerweise hat man jemanden zur Unterstützung, der einem bei der Beuurteilung des Zustandes beraten kann, wenn einem die Erfahrung fehlt. Sonst kann das vermeintliche Schnäppchen durch nötige Reparaturen schnell zum Totalschaden werden. Schnäppchen sind auf dem Gebrauchtmarkt selten, da gebrauchte Rennräder gefragt sind. Umgekehrt gilt aber auch, dass das Rad einen guten Wiederverkaufswert sich behält, wenn es nicht kaputt geht oder geklaut wird. 
+Die Bike-Marke ist nicht so wichtig. Man sollte nur darauf achten eine Bewährte Bike-Marke zu kaufen: Canyon, Scott, Trek, Specialized, Giant, Cube, BMC, Ribble, Boardman, Orro, Cannondale, Merida u. v. m. Antrieb mindestens von Shimano 105 oder vergleichbar von SRAM.
+Können wir einen 10% Discount mit einem Händler bekommen für Räder?
