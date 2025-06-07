@@ -319,11 +319,15 @@ From local trail sessions in Richmond Park to full-day rides at Swinley or BikeP
   z-index: 999;
   top: 0; left: 0; width: 100%; height: 100%;
   background-color: rgba(0, 0, 0, 0.7);
+  
+  background-blend-mode: overlay;
   overflow: auto; /* ✅ macht das gesamte Modal scrollbar */
 }
 
+
 .modal-content {
   background-color: #111827;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 70%, rgba(0, 208, 255, 0.2));
   color: white;
   margin: 5% auto;
   padding: 20px;
@@ -342,7 +346,7 @@ From local trail sessions in Richmond Park to full-day rides at Swinley or BikeP
   cursor: pointer;
 }
 
-a { color: #00e0ff; text-decoration: underline; }
+#welcomeModal a { color: #ffffff; text-decoration: underline; }
 </style>
 
 <script>
@@ -358,5 +362,4 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
-
 <!-- END: Modal Popup -->
