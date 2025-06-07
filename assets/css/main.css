@@ -192,7 +192,7 @@ html {
 body {
   background-color: #242333;
   background-image:
-    linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)),
+    linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)),
     url("../../images/bg.jpg");
   background-size: auto, cover;
   background-attachment: fixed, fixed;
@@ -3051,7 +3051,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-	background-color: #010080;
+	background-color: #4b0081;
 	box-shadow: none;
 }
 
@@ -3060,7 +3060,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-	background-color: #0000cc;
+	background-color: #7c68ee;
 }
 
 input[type="submit"].primary:active,
@@ -3610,7 +3610,7 @@ body.is-menu-visible #menu .inner {
 	#banner {
 		padding: 7em 0 8.25em 0;
 		background-color: #242333;
-		background-image: linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)), url("../../images/bg.jpg");
 		background-size: auto,
 			cover;
 		background-position: center,
@@ -3722,7 +3722,7 @@ body.is-preload #banner p {
 	#wrapper>header {
 		padding: 9em 0 6.25em 0;
 		background-color: #242333;
-		background-image: linear-gradient(to bottom, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to bottom, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)), url("../../images/bg.jpg");
 		background-size: auto,
 			cover;
 		background-position: center,
@@ -3918,20 +3918,20 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight {
-	background-color: #010080;
+	background-color: #4b0081;
 }
 
 .wrapper.spotlight:before,
 .wrapper.spotlight:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23010080%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234b0081%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper.spotlight:before {
-	box-shadow: inset 0 -1px 0 0 #010080, 0 1px 0 0 #010080;
+	box-shadow: inset 0 -1px 0 0 #4b0081, 0 1px 0 0 #4b0081;
 }
 
 .wrapper.spotlight:after {
-	box-shadow: inset 0 -1px 0 0 #010080, 0 1px 0 0 #010080;
+	box-shadow: inset 0 -1px 0 0 #4b0081, 0 1px 0 0 #4b0081;
 }
 
 .wrapper.spotlight .inner {
