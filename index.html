@@ -289,3 +289,74 @@ From local trail sessions in Richmond Park to full-day rides at Swinley or BikeP
 
 	</body>
 </html>
+
+<!-- START: Modal Popup -->
+<div id="welcomeModal" class="modal">
+  <div class="modal-content">
+    <span class="close-button">&times;</span>
+    <h2>🚴‍♂️ Welcome to Imperial College Cycling Club</h2>
+    <h3>A New Chapter for Cycling at Imperial</h3>
+    <p><strong>We know cycling in London isn't always easy:</strong> busy roads, no storage, and far-off green spaces…</p>
+    <ul>
+      <li>✅ Promoting a vibrant <strong>urban cycling culture</strong></li>
+      <li>✅ Supporting <strong>indoor training, Zwift & spin</strong></li>
+      <li>✅ Building a club that’s <strong>inclusive, stylish, and social</strong></li>
+    </ul>
+    <p><strong>From fast road riders to chill trail explorers and fixie lovers — this club is for you.</strong></p>
+    <p>Whether you're a student, alumni, or just part of our cycling world: you’re welcome here!</p>
+    <p>📢 Want to help shape the club? Join our <strong>committee team</strong> and make a difference.</p>
+    <p>🌍 <strong>New year, fresh energy, and a brand-new website</strong> – check it out and get involved!</p>
+    <a href="/join" class="join-button">👉 Join Now – It's Free!</a>
+    <br><br>
+  </div>
+</div>
+
+
+<style>
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  overflow: auto; /* ✅ macht das gesamte Modal scrollbar */
+}
+
+.modal-content {
+  background-color: #111827;
+  color: white;
+  margin: 5% auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+  max-height: 90vh;     /* ✅ begrenzt die Höhe */
+  overflow-y: auto;     /* ✅ aktiviert Scrollen im Modal */
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+.close-button {
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+a { color: #00e0ff; text-decoration: underline; }
+</style>
+
+<script>
+// Zeige Modal nur beim ersten Besuch
+document.addEventListener('DOMContentLoaded', function () {
+  if (!localStorage.getItem('clubModalShown')) {
+    document.getElementById('welcomeModal').style.display = 'block';
+    //localStorage.setItem('clubModalShown', 'true');
+  }
+
+  document.querySelector('.close-button').addEventListener('click', function () {
+    document.getElementById('welcomeModal').style.display = 'none';
+  });
+});
+</script>
+
+<!-- END: Modal Popup -->
