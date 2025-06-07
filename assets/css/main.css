@@ -190,9 +190,9 @@ html {
 }
 
 body {
-  background-color: #242333;
+  background-color: #2A323D;
   background-image:
-    linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)),
+    linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)),
     url("../../images/bg.jpg");
   background-size: auto, cover;
   background-attachment: fixed, fixed;
@@ -3051,7 +3051,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-	background-color: #4b0081;
+	background-color: #3F77B6;
 	box-shadow: none;
 }
 
@@ -3060,7 +3060,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-	background-color: #7c68ee;
+	background-color: #4C72B0;
 }
 
 input[type="submit"].primary:active,
@@ -3068,7 +3068,7 @@ input[type="reset"].primary:active,
 input[type="button"].primary:active,
 button.primary:active,
 .button.primary:active {
-	background-color: #3fe0d0;
+	background-color: #4C72B0;
 }
 
 input[type="submit"].primary.icon:before,
@@ -3144,13 +3144,10 @@ button:disabled,
 
 .features article {
 	padding: 1.75em 1.75em 0.1em 1.75em;
-	background-color: #242333;
+	background-color: #363C45;
 	border-radius: 5px;
 	margin: 1.5em 3em 1.5em 0;
 	width: calc(50% - 1.5em);
-
-	border: 1px solid #3A3A55; /* dünner Rahmen, etwas heller als Hintergrund */
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15); /* optional für leichte Tiefenwirkung */
 }
 
 .features article:nth-child(2n) {
@@ -3218,7 +3215,7 @@ button:disabled,
 	-webkit-transition: background-color 0.2s ease-in-out;
 	-ms-transition: background-color 0.2s ease-in-out;
 	transition: background-color 0.2s ease-in-out;
-	background-color: rgba(36, 35, 51, 0.95);
+	background-color: rgb(54, 60, 69, 0.95);
 	height: 3.5em;
 	left: 0;
 	line-height: 3.5em;
@@ -3424,7 +3421,7 @@ button:disabled,
 	-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 	transition: opacity 0.35s ease, transform 0.35s ease;
 	-webkit-overflow-scrolling: touch;
-	background: #242333;
+	background: #2A323D;
 	border-radius: 5px;
 	display: block;
 	max-width: 100%;
@@ -3480,9 +3477,8 @@ button:disabled,
 }
 
 #menu .links li a:hover {
-    font-weight: 700; /* oder bold */
+	background: #363C45;
 }
-
 
 @media screen and (max-width: 736px) {
 
@@ -3609,8 +3605,8 @@ body.is-menu-visible #menu .inner {
 
 	#banner {
 		padding: 7em 0 8.25em 0;
-		background-color: #242333;
-		background-image: linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)), url("../../images/bg.jpg");
+		background-color: #2A323D;
+		background-image: linear-gradient(to top, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)), url("../../images/bg.jpg");
 		background-size: auto,
 			cover;
 		background-position: center,
@@ -3721,8 +3717,8 @@ body.is-preload #banner p {
 
 	#wrapper>header {
 		padding: 9em 0 6.25em 0;
-		background-color: #242333;
-		background-image: linear-gradient(to bottom, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.4)), url("../../images/bg.jpg");
+		background-color: #2A323D;
+		background-image: linear-gradient(to bottom, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.0)), url("../../images/bg.jpg");
 		background-size: auto,
 			cover;
 		background-position: center,
@@ -3769,22 +3765,22 @@ body.is-preload #banner p {
 }
 
 .wrapper {
-	background-color: #708090;
+	background-color: #4C5E73;
 	margin: 6.5em 0;
 	position: relative;
 }
 
 .wrapper:before,
 .wrapper:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23708090%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234C5E73%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper:before {
-	box-shadow: inset 0 -1px 0 0 #708090, 0 1px 0 0 #708090;
+	box-shadow: inset 0 -1px 0 0 #4C5E73, 0 1px 0 0 #4C5E73;
 }
 
 .wrapper:after {
-	box-shadow: inset 0 -1px 0 0 #708090, 0 1px 0 0 #708090;
+	box-shadow: inset 0 -1px 0 0 #4C5E73, 0 1px 0 0 #4C5E73;
 }
 
 .wrapper:before,
@@ -3833,20 +3829,20 @@ body.is-preload #banner p {
 }
 
 .wrapper.style2 {
-	background-color: #242333;
+	background-color: #2A323D;
 }
 
 .wrapper.style2:before,
 .wrapper.style2:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23242333%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232A323D%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper.style2:before {
-	box-shadow: inset 0 -1px 0 0 #242333, 0 1px 0 0 #242333;
+	box-shadow: inset 0 -1px 0 0 #2A323D, 0 1px 0 0 #2A323D;
 }
 
 .wrapper.style2:after {
-	box-shadow: inset 0 -1px 0 0 #242333, 0 1px 0 0 #242333;
+	box-shadow: inset 0 -1px 0 0 #2A323D, 0 1px 0 0 #2A323D;
 }
 
 .wrapper.style3 {
@@ -3918,20 +3914,20 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight {
-	background-color: #4b0081;
+	background-color: #4A6C94;
 }
 
 .wrapper.spotlight:before,
 .wrapper.spotlight:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234b0081%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234A6C94%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper.spotlight:before {
-	box-shadow: inset 0 -1px 0 0 #4b0081, 0 1px 0 0 #4b0081;
+	box-shadow: inset 0 -1px 0 0 #4A6C94, 0 1px 0 0 #4A6C94;
 }
 
 .wrapper.spotlight:after {
-	box-shadow: inset 0 -1px 0 0 #4b0081, 0 1px 0 0 #4b0081;
+	box-shadow: inset 0 -1px 0 0 #4A6C94, 0 1px 0 0 #4A6C94;
 }
 
 .wrapper.spotlight .inner {
@@ -3980,37 +3976,37 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style2 {
-	background-color: #708090;
+	background-color: #4C5E73;
 }
 
 .wrapper.spotlight.style2:before,
 .wrapper.spotlight.style2:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23708090%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234C5E73%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper.spotlight.style2:before {
-	box-shadow: inset 0 -1px 0 0 #708090, 0 1px 0 0 #708090;
+	box-shadow: inset 0 -1px 0 0 #4C5E73, 0 1px 0 0 #4C5E73;
 }
 
 .wrapper.spotlight.style2:after {
-	box-shadow: inset 0 -1px 0 0 #708090, 0 1px 0 0 #708090;
+	box-shadow: inset 0 -1px 0 0 #4C5E73, 0 1px 0 0 #4C5E73;
 }
 
 .wrapper.spotlight.style3 {
-	background-color: #008081;
+	background-color: #455E62;
 }
 
 .wrapper.spotlight.style3:before,
 .wrapper.spotlight.style3:after {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23008081%3B' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23455E62%3B' /%3E%3C/svg%3E");
 }
 
 .wrapper.spotlight.style3:before {
-	box-shadow: inset 0 -1px 0 0 #008081, 0 1px 0 0 #008081;
+	box-shadow: inset 0 -1px 0 0 #455E62, 0 1px 0 0 #455E62;
 }
 
 .wrapper.spotlight.style3:after {
-	box-shadow: inset 0 -1px 0 0 #008081, 0 1px 0 0 #008081;
+	box-shadow: inset 0 -1px 0 0 #455E62, 0 1px 0 0 #455E62;
 }
 
 .wrapper.spotlight.style4 {
@@ -4229,7 +4225,7 @@ body.is-preload #banner p {
 
 
 	#footer {
-		background-color: #242333;
+		background-color: #2A323D;
 		background-image: linear-gradient(to bottom, rgba(42, 50, 61, 0.85), rgba(42, 50, 61, 0.85)), url("../../images/bg.jpg");
 		background-size: auto,
 			cover;
